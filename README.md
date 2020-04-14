@@ -12,8 +12,8 @@ This application allows the user to convert any USD amount into a number of fore
 
 ### View Foreign Exchange Rates:
 
-![ExchangeRate](C:\Local Storage\ExchangeRate.PNG)
+![ExchangeRate](https://github.com/drl96/JSONCurrencyConverter/blob/master/Resources/ExchangeRate.PNG)
 
 ### Conversion from USD to CAD:
 
-![Conversion](C:\Local Storage\Conversion.PNG)
+![Conversion](https://github.com/drl96/JSONCurrencyConverter/blob/master/Resources/Conversion.PNG)
