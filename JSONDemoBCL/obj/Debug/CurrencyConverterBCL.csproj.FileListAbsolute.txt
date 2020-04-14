@@ -1,0 +1,12 @@
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoBCL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoBCL.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoDACL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoDACL.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.xml
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\obj\Debug\CurrencyConverterBCL.csprojAssemblyReference.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\obj\Debug\CurrencyConverterBCL.csproj.CoreCompileInputs.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\obj\Debug\CurrencyConverterBCL.csproj.CopyComplete
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.pdb

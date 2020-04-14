@@ -1,0 +1,60 @@
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\JSONDemoBCL.dll
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\JSONDemoBCL.pdb
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\JSONDemoDACL.dll
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\Newtonsoft.Json.dll
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\JSONDemoDACL.pdb
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\Newtonsoft.Json.pdb
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\bin\Debug\Newtonsoft.Json.xml
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\obj\Debug\JSONDemoBCL.dll
+E:\CIS 3325 Fall 2018\ClassDemos\JSONDemoMVC\JSONDemoBCL\obj\Debug\JSONDemoBCL.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\JSONDemoBCL.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\JSONDemoBCL.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\JSONDemoDACL.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\JSONDemoDACL.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\obj\Debug\JSONDemoBCL.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\JSONDemoBCL\obj\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\JSONDemoDACL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\JSONDemoDACL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\obj\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONDemoBCL\obj\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoDACL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoDACL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoDACL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\JSONDemoDACL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\JSONDemoBCL\obj\Debug\JSONDemoBCL.pdb

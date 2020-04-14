@@ -1,0 +1,99 @@
+D:\Assignments\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\Assignments\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\Assignments\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\Assignments\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.frmCurrencyConverter.resources
+D:\Assignments\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+D:\Assignments\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+D:\Assignments\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Assignments\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\Assignments\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\JSONDemoBCL.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\JSONDemoDACL.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\JSONDemoBCL.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\JSONDemoDACL.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\mm07\Desktop\JSONCurencyConverter - Copy\CurrencyConverter\obj\Debug\JSONDemoBCL.frmCurrencyConverter.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\JSONDemoBCL.frmCurrencyConverter.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\JSONDemoDACL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\JSONDemoDACL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoDACL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoDACL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\JSONDemoBCL.frmCurrencyConverter.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoBCL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoDACL.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoBCL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoDACL.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\JSONDemoBCL.frmCurrencyConverter.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Drew Leonard\iCloudDrive\WINDOWS DESKTOP\json currency converter shit\experamental\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoBCL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoDACL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoBCL.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\JSONDemoDACL.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\JSONDemoBCL.frmCurrencyConverter.resources
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

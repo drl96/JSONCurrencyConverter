@@ -1,0 +1,10 @@
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\bin\Debug\JSONDemoDACL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\bin\Debug\JSONDemoDACL.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\bin\Debug\Newtonsoft.Json.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\bin\Debug\Newtonsoft.Json.pdb
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\bin\Debug\Newtonsoft.Json.xml
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\obj\Debug\CurrencyConverterDACL.csprojAssemblyReference.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\obj\Debug\CurrencyConverterDACL.csproj.CoreCompileInputs.cache
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\obj\Debug\CurrencyConverterDACL.csproj.CopyComplete
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\obj\Debug\JSONDemoDACL.dll
+C:\Local Storage\3325 Copies\JSON Currency Converter\professors correct version altered\JSONCurencyConverter\JSONDemoDACL\obj\Debug\JSONDemoDACL.pdb
